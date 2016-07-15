@@ -1,0 +1,4 @@
+See file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/compileMagicBeautifyX86DebugSharedLibraryMagicBeautifyMainCpp/output.txt for all output for compileMagicBeautifyX86DebugSharedLibraryMagicBeautifyMainCpp.
+compiling MagicSDK.cpp successful.
+
+Finished compileMagicBeautifyX86DebugSharedLibraryMagicBeautifyMainCpp, see full log file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/compileMagicBeautifyX86DebugSharedLibraryMagicBeautifyMainCpp/output.txt.

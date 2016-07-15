@@ -1,0 +1,4 @@
+See file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicSDKArm64-v8aDebugSharedLibrary/output.txt for all output for linkMagicSDKArm64-v8aDebugSharedLibrary.
+linking libMagicSDK.so successful.
+
+Finished linkMagicSDKArm64-v8aDebugSharedLibrary, see full log file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicSDKArm64-v8aDebugSharedLibrary/output.txt.
