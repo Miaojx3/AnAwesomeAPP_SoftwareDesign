@@ -1,4 +1,0 @@
-See file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/compileMagicBeautifyMips64DebugSharedLibraryMagicBeautifyMainCpp/output.txt for all output for compileMagicBeautifyMips64DebugSharedLibraryMagicBeautifyMainCpp.
-compiling MagicSDK.cpp successful.
-
-Finished compileMagicBeautifyMips64DebugSharedLibraryMagicBeautifyMainCpp, see full log file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/compileMagicBeautifyMips64DebugSharedLibraryMagicBeautifyMainCpp/output.txt.

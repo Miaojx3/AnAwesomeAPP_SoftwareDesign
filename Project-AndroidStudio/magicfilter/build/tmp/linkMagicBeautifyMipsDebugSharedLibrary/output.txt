@@ -1,4 +1,0 @@
-See file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicBeautifyMipsDebugSharedLibrary/output.txt for all output for linkMagicBeautifyMipsDebugSharedLibrary.
-linking libMagicBeautify.so successful.
-
-Finished linkMagicBeautifyMipsDebugSharedLibrary, see full log file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicBeautifyMipsDebugSharedLibrary/output.txt.

@@ -1,4 +1,0 @@
-See file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicBeautifyArmeabi-v7aReleaseSharedLibrary/output.txt for all output for linkMagicBeautifyArmeabi-v7aReleaseSharedLibrary.
-linking libMagicBeautify.so successful.
-
-Finished linkMagicBeautifyArmeabi-v7aReleaseSharedLibrary, see full log file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicBeautifyArmeabi-v7aReleaseSharedLibrary/output.txt.

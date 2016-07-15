@@ -1,4 +1,0 @@
-See file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicBeautifyArm64-v8aReleaseSharedLibrary/output.txt for all output for linkMagicBeautifyArm64-v8aReleaseSharedLibrary.
-linking libMagicBeautify.so successful.
-
-Finished linkMagicBeautifyArm64-v8aReleaseSharedLibrary, see full log file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicBeautifyArm64-v8aReleaseSharedLibrary/output.txt.
