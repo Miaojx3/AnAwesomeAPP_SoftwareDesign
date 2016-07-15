@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#f9f4f4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_widthPercent="70%"
+        app:layout_heightPercent="70%"
+        app:layout_marginLeftPercent="15%"
+        android:layout_marginTop="-100dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/icon_2"/>
+
+    <ImageButton
+        android:id="@+id/button_album"
+        android:src="@drawable/btn_album"
+        android:background="#00000000"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_widthPercent="20%"
+        app:layout_heightPercent="20%"
+        app:layout_marginLeftPercent="15%"
+        app:layout_marginTopPercent="25%"
+        android:scaleType="centerInside" />
+
+    <ImageButton
+        android:id="@+id/button_camera"
+        android:src="@drawable/btn_camera"
+        android:background="#00000000"
+        app:layout_widthPercent="20%"
+        app:layout_heightPercent="20%"
+        app:layout_marginLeftPercent="60%"
+        app:layout_marginTopPercent="25%"
+        android:scaleType="centerInside" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_marginLeftPercent="22%"
+        app:layout_marginTopPercent="45%"
+        android:text="相册"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_marginLeftPercent="67%"
+        app:layout_marginTopPercent="45%"
+        android:text="拍照"/>
+
+    <ImageButton
+        android:id="@+id/button_code_image"
+        android:src="@drawable/code_image"
+        android:background="#00000000"
+        app:layout_widthPercent="20%"
+        app:layout_heightPercent="20%"
+        app:layout_marginLeftPercent="15%"
+        app:layout_marginTopPercent="55%"
+        android:scaleType="centerInside" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_marginLeftPercent="22%"
+        app:layout_marginTopPercent="74%"
+        android:text="加密"/>
+
+    <ImageButton
+        android:id="@+id/dots_image"
+        android:src="@drawable/cloud"
+        android:background="#00000000"
+        app:layout_widthPercent="20%"
+        app:layout_heightPercent="20%"
+        app:layout_marginLeftPercent="60%"
+        app:layout_marginTopPercent="55%"
+        android:scaleType="centerInside" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_marginLeftPercent="64%"
+        app:layout_marginTopPercent="74%"
+        android:text="未完待续"/>
+
+
+
+
+
+
+
+
+
+</android.support.percent.PercentFrameLayout>

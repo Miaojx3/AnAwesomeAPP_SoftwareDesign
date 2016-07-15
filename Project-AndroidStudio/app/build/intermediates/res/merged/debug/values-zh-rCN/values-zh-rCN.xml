@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="edit_adds">装饰</string>
+    <string name="edit_beauty">美颜</string>
+    <string name="edit_brightness">亮度</string>
+    <string name="edit_contrast">对比度</string>
+    <string name="edit_edit">编辑</string>
+    <string name="edit_exposure">曝光</string>
+    <string name="edit_filter">滤镜</string>
+    <string name="edit_frame">边框</string>
+    <string name="edit_hue">色调</string>
+    <string name="edit_saturation">饱和度</string>
+    <string name="edit_sharpness">锐化</string>
+    <string name="edit_vibrance">自然饱和度</string>
+    <string name="filter_antique">复古</string>
+    <string name="filter_beauty">美肤</string>
+    <string name="filter_blackcat">黑猫</string>
+    <string name="filter_calm">平静</string>
+    <string name="filter_cool">冰冷</string>
+    <string name="filter_crayon">蜡笔</string>
+    <string name="filter_emerald">祖母绿</string>
+    <string name="filter_evergreen">常青</string>
+    <string name="filter_fairytale">童话</string>
+    <string name="filter_healthy">健康</string>
+    <string name="filter_latte">拿铁</string>
+    <string name="filter_none">原图</string>
+    <string name="filter_nostalgia">怀旧</string>
+    <string name="filter_romance">浪漫</string>
+    <string name="filter_sakura">樱花</string>
+    <string name="filter_sketch">素描</string>
+    <string name="filter_skinwhiten">美白</string>
+    <string name="filter_sunrise">日出</string>
+    <string name="filter_sunset">日落</string>
+    <string name="filter_sweets">甜品</string>
+    <string name="filter_tender">温柔</string>
+    <string name="filter_warm">温暖</string>
+    <string name="filter_whitecat">白猫</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

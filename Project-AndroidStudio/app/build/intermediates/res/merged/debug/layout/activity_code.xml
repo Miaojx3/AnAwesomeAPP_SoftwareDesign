@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#f9f4f4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_widthPercent="100%"
+        app:layout_heightPercent="77%"
+        app:layout_marginLeftPercent="0%"
+        app:layout_marginTopPercent="5%" />
+
+    <Button
+        android:id="@+id/codeBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        app:layout_heightPercent="7%"
+        app:layout_marginTopPercent="88%"
+        app:layout_marginLeftPercent="20%"
+        android:textSize="15dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/button_bg3"
+        android:text="加 密"/>
+
+    <Button
+        android:id="@+id/decodeBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        app:layout_heightPercent="7%"
+        app:layout_marginTopPercent="88%"
+        app:layout_marginLeftPercent="57%"
+        android:background="@drawable/button_bg7"
+        android:textColor="#ffffff"
+        android:textSize="15dp"
+        android:text="解 密"/>
+
+
+</android.support.percent.PercentFrameLayout>
