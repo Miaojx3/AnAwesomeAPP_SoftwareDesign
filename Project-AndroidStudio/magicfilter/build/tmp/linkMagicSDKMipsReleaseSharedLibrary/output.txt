@@ -1,0 +1,4 @@
+See file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicSDKMipsReleaseSharedLibrary/output.txt for all output for linkMagicSDKMipsReleaseSharedLibrary.
+linking libMagicSDK.so successful.
+
+Finished linkMagicSDKMipsReleaseSharedLibrary, see full log file:///Users/kouseishouganzhoushizenminamixianxianjoushinseigentanleijou/Documents/Github/MagicCamera/Project-AndroidStudio/magicfilter/build/tmp/linkMagicSDKMipsReleaseSharedLibrary/output.txt.
